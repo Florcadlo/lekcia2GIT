@@ -1,0 +1,1 @@
+# lekcia2GIT
